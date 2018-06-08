@@ -69,4 +69,5 @@ demo中顶部图片 顶部标题，活动时间等相关信息都是原生的代
     NSDictionary *jsonDict = [NSJSONSerialization JSONObjectWithData:JSONData options:NSJSONReadingAllowFragments error:nil];
 ```
 
-demo下载地址：
+更多源码请参考demo: https://github.com/qqcc1388/TYWebViewInTableViewDemo
+转载请标注来源：https://www.cnblogs.com/tinych/p/9156236.html
