@@ -71,4 +71,4 @@ demo中顶部图片 顶部标题，活动时间等相关信息都是原生的代
 
 更多源码请参考demo: https://github.com/qqcc1388/TYWebViewInTableViewDemo
 
-转载请标注来源：https://www.cnblogs.com/tinych/p/9156236.html
+转载请标注来源：https://www.cnblogs.com/qqcc1388/p/9156236.html
